@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MQTT-ANDROID-master-5135648592e1cb41290aaa22d2bdbbed24cab4ee.iml" filepath="$PROJECT_DIR$/MQTT-ANDROID-master-5135648592e1cb41290aaa22d2bdbbed24cab4ee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQTT.Android.Test.iml" filepath="$PROJECT_DIR$/MQTT.Android.Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
